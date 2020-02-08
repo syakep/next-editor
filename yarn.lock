@@ -1596,9 +1596,9 @@
     "@types/react" "*"
     redux "^4.0.0"
 
-"@types/react-test-renderer@16.0.2":
-  version "16.0.2"
-  resolved "https://registry.yarnpkg.com/@types/react-test-renderer/-/react-test-renderer-16.0.2.tgz#2715eae40df08f80b3620c498598c8615693b6c6"
+"@types/react-test-renderer@16.9.2":
+  version "16.9.2"
+  resolved "https://registry.yarnpkg.com/@types/react-test-renderer/-/react-test-renderer-16.9.2.tgz#e1c408831e8183e5ad748fdece02214a7c2ab6c5"
   dependencies:
     "@types/react" "*"
 
